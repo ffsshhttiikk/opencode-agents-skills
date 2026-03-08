@@ -1,0 +1,88 @@
+{
+  "version": "3.0",
+  "last_updated": "2026-02-09",
+  "total_skills": 524,
+  "validated": true,
+  "categories": [
+    {
+      "name": "root",
+      "path": ".opencode/skills/",
+      "skill_count": 167
+    },
+    {
+      "name": "ai",
+      "path": ".opencode/skills/categories/ai/",
+      "skills": ["anthropic", "embeddings", "huggingface", "langchain", "llama-index", "llmops", "mlflow", "openai", "pytorch", "ray", "tensorflow", "vector-databases", "weights-biases"]
+    },
+    {
+      "name": "apis",
+      "path": ".opencode/skills/categories/apis/",
+      "skills": ["graphql", "openapi", "rest"]
+    },
+    {
+      "name": "cloud-computing",
+      "path": ".opencode/skills/categories/cloud-computing/",
+      "skills": ["cloudformation", "cloud-security", "edge-computing", "multi-cloud", "pulumi", "serverless", "service-mesh"]
+    },
+    {
+      "name": "computer-science",
+      "path": ".opencode/skills/categories/computer-science/",
+      "skills": ["automata-theory", "compilers", "computational-complexity", "computer-architecture", "debugging", "distributed-systems", "embedded-systems", "formal-methods", "go", "high-performance-computing", "information-theory", "java", "javascript", "operating-systems", "profiling", "python", "real-time-systems", "ruby", "rust", "scientific-computing", "software-engineering", "typescript"]
+    },
+    {
+      "name": "cybersecurity",
+      "path": ".opencode/skills/categories/cybersecurity/",
+      "skills": ["acunetix", "application-security", "checkmarx", "compliance", "cryptography", "dast", "forensics", "fortify", "incident-response", "mobile-security", "network-security", "owasp", "penetration-testing", "sast", "sbom", "security-auditing", "snyk", "threat-intelligence", "trivy", "vulnerability-assessment", "zero-trust"]
+    },
+    {
+      "name": "data-science",
+      "path": ".opencode/skills/categories/data-science/",
+      "skills": ["airflow", "big-data", "dbt", "data-visualization", "etl-pipelines", "exploratory-data-analysis", "feature-engineering", "numpy", "spark"]
+    },
+    {
+      "name": "databases",
+      "path": ".opencode/skills/categories/databases/",
+      "skills": ["bigquery", "cassandra", "cockroachdb", "dgraph", "dynamodb", "elasticsearch", "mongodb", "mysql", "neo4j", "planetscale", "postgresql", "redshift", "snowflake", "sql", "sqlite", "supabase", "tidb", "timescaledb", "yugabytedb"]
+    },
+    {
+      "name": "devops",
+      "path": ".opencode/skills/categories/devops/",
+      "skills": ["ansible", "argocd", "chaos-engineering", "datadog", "gitlab-ci", "grafana", "helm", "jaeger", "jenkins", "loki", "newrelic", "otel", "prometheus", "tempo", "terraform", "zipkin"]
+    },
+    {
+      "name": "frameworks-libraries",
+      "path": ".opencode/skills/categories/frameworks-libraries/",
+      "skills": ["apollo", "astro", "graphql", "htmx", "nextjs", "nuxt", "qwik", "rails", "redis", "remix", "solidjs", "svelte", "tailwind"]
+    },
+    {
+      "name": "frontend",
+      "path": ".opencode/skills/categories/frontend/",
+      "skills": ["angular", "react", "svelte", "vanilla-js", "vue"]
+    },
+    {
+      "name": "infrastructure",
+      "path": ".opencode/skills/categories/infrastructure/",
+      "skills": ["containerd", "cri-o", "docker", "kubernetes", "podman"]
+    },
+    {
+      "name": "messaging",
+      "path": ".opencode/skills/categories/messaging/",
+      "skills": ["kafka", "nats", "pulsar", "rabbitmq", "sqs"]
+    },
+    {
+      "name": "mobile-development",
+      "path": ".opencode/skills/categories/mobile-development/",
+      "skills": ["android", "flutter", "ionic", "ios", "kotlin", "mobile-ui", "react-native", "swift", "xamarin"]
+    },
+    {
+      "name": "patterns",
+      "path": ".opencode/skills/categories/patterns/",
+      "skills": ["cqrs", "event-driven", "event-sourcing", "hexagonal", "microservices", "monolithic", "serverless"]
+    },
+    {
+      "name": "system-design",
+      "path": ".opencode/skills/categories/system-design/",
+      "skills": ["api-gateway", "caching", "cdn", "cqrs", "event-sourcing", "service-mesh"]
+    }
+  ]
+}
